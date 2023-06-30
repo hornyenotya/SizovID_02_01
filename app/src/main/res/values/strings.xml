@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SizovID_02_01</string>
+    <string name="Geometric_Calculate">Геометрический калькулятор</string>
+    <string name="write_login">  Введите логин</string>
+    <string name="write_password">  Введите пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="takefigures">Выбор фигуры</string>
+    <string name="result">Результат вычислений</string>
+    <string name="w3"> Название выбраной фигуры</string>
+    <string name="res">                            РЕЗУЛЬТАТ</string>
+    <string name="w2"> Выберите фигуру</string>
+    <string name="w22"> Введите данные длшя расчётов</string>
+    <string name="t3">Выполнить расчёт</string>
+</resources>
